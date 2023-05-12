@@ -6,6 +6,8 @@ COPY package*.json ./
 
 RUN npm install
 
+RUN docker-compose up -d
+
 COPY . .
 
 EXPOSE 3000
