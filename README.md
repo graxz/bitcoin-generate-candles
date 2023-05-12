@@ -1,5 +1,3 @@
-<!-- Crie uma doc a partir desse projeto inteiro -->
-
 # 📝 Sobre
 
 Esse projeto é um gerador de candles para uma API de dados de mercado financeiro.
